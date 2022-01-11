@@ -8,6 +8,7 @@ target
 .settings
 .DS_Store
 *.bpmn/
+out/**
 /userguide/src/en/index.html
 migration.html
 /modules/**/bin
